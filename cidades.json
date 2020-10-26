@@ -1,0 +1,20 @@
+[
+	{
+		"key": "APU",
+		"latitude": -23.55,
+		"longitude": -51.46,
+		"name": "Apucarana"
+	},
+	{
+		"key": "ARA",
+		"latitude": -23.39,
+		"longitude": -51.42,
+		"name": "Arapongas"
+	},
+	{
+		"key": "IVA",
+		"latitude": -24.23,
+		"longitude": -51.66,
+		"name": "Ivaipora"
+	}
+]

@@ -1,18 +1,18 @@
 [
 	{
-		"key": "APU",
+		"key": "MK-AAP-APUC",
 		"latitude": -23.55,
 		"longitude": -51.46,
 		"name": "Apucarana"
 	},
 	{
-		"key": "ARA",
+		"key": "MK-AAP-ARAP",
 		"latitude": -23.39,
 		"longitude": -51.42,
 		"name": "Arapongas"
 	},
 	{
-		"key": "IVA",
+		"key": "MK-AAP-IVAIP",
 		"latitude": -24.23,
 		"longitude": -51.66,
 		"name": "Ivaipora"

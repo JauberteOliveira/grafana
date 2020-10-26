@@ -1,0 +1,20 @@
+[
+	{
+		"key": "APUCARANA",
+		"latitude": -23.55,
+		"longitude": -51.46,
+		"name": "APUCARANA"
+	},
+	{
+		"key": "ARAPONGAS",
+		"latitude": -23.39,
+		"longitude": -51.42,
+		"name": "ARAPONGAS"
+	},
+	{
+		"key": "IVAIPORA",
+		"latitude": -24.23,
+		"longitude": -51,66,
+		"name": "IVAIPORA"
+	}
+]
